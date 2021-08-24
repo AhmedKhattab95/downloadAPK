@@ -1,3 +1,6 @@
+follow:
+https://androidwave.com/download-and-install-apk-programmatically/
+
 # download_new_apk
 
 A new Flutter application.
